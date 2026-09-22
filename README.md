@@ -298,12 +298,25 @@ For code issues:
 
 ## Citation
 
-If using this tool in research, please cite:
-- LDBV data source: Bayerische Vermessungsverwaltung
-- Software: Forestry Canopy Height Analysis Tool v1.0
+If using this tool in research or applications, please cite:
+
+**BibTeX:**
+```bibtex
+@software{ecke2024light,
+  author = {Ecke, Simon},
+  title = {Light Availability Assessment for Forestry Inventory},
+  year = {2024},
+  url = {https://github.com/simon-ecke/light_availabilityP},
+  note = {Python tool for quantifying light conditions at forestry locations}
+}
+```
+
+**Also cite the data source:**
+- LDBV elevation products: Bayerische Vermessungsverwaltung (https://geoservices.bayern.de/)
 
 ---
 
-**Author**: Professional forestry GIS workflow
-**Version**: 1.0.0
-**Date**: 2024
+**Author**: Simon Ecke  
+**Version**: 1.0.0  
+**Date**: 2024  
+**Repository**: https://github.com/simon-ecke/light_availabilityP
