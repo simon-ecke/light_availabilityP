@@ -1,4 +1,4 @@
-# Light Availability Assessment for Forestry Inventory
+# Light Availability Assessment for Forest Inventory
 
 Analyzes light conditions at inventory points through canopy height distribution using LDBV (Landesamt für Digitalisierung, Breitband und Vermessung) elevation products from Bavaria's GeoDatenOnline service. Provides quantitative assessment of light availability for forest management and ecological analysis.
 
@@ -302,10 +302,10 @@ If using this tool in research or applications, please cite:
 
 **BibTeX:**
 ```bibtex
-@software{ecke2024light,
+@software{ecke2026light,
   author = {Ecke, Simon},
-  title = {Light Availability Assessment for Forestry Inventory},
-  year = {2024},
+  title = {Light Availability Assessment for Forest Inventory},
+  year = {2026},
   url = {https://github.com/simon-ecke/light_availabilityP},
   note = {Python tool for quantifying light conditions at forestry locations}
 }
@@ -318,5 +318,5 @@ If using this tool in research or applications, please cite:
 
 **Author**: Simon Ecke  
 **Version**: 1.0.0  
-**Date**: 2024  
+**Date**: 2026  
 **Repository**: https://github.com/simon-ecke/light_availabilityP
