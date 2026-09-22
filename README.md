@@ -300,10 +300,3 @@ For code issues:
 
 If using this tool in research, please cite:
 - LDBV data source: Bayerische Vermessungsverwaltung
-- Software: Forestry Canopy Height Analysis Tool v1.0
-
----
-
-**Author**: Professional forestry GIS workflow
-**Version**: 1.0.0
-**Date**: 2024
