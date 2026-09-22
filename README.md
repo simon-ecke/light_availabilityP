@@ -1,9 +1,10 @@
-# Forestry Canopy Height Analysis
+# Light Availability Assessment for Forestry Inventory
 
-Production-ready Python system for analyzing canopy height distributions at forestry inventory locations using LDBV (Landesamt für Digitalisierung, Breitband und Vermessung) elevation products from Bavaria's GeoDatenOnline service.
+Analyzes light conditions at inventory points through canopy height distribution using LDBV (Landesamt für Digitalisierung, Breitband und Vermessung) elevation products from Bavaria's GeoDatenOnline service. Provides quantitative assessment of light availability for forest management and ecological analysis.
 
 ## Features
 
+- **Light assessment**: Quantify light availability through canopy height distribution analysis
 - **Flexible input**: Single inventory points or transects (two points)
 - **Automatic data acquisition**: Downloads DOM (20cm) and DGM (1m) via WCS 2.0.1 API
 - **Normalized height derivation**: Computes nDOM = DOM - DGM with proper alignment
