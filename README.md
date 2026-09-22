@@ -14,6 +14,9 @@ Analyzes light conditions at inventory points through canopy height distribution
 
 ## Sample Outputs
 
+### Normalized Digital Surface Model (nDSM)
+![Light nDSM](plots/light_nDSM.png)
+
 ### Category Comparison
 ![Category Comparison](plots/category_comparison.png)
 
