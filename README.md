@@ -11,6 +11,14 @@ Production-ready Python system for analyzing canopy height distributions at fore
 - **Production-ready**: Comprehensive error handling, validation, and logging
 - **Interactive workflow**: Jupyter notebook for exploration and testing
 
+## Sample Outputs
+
+### Category Comparison
+![Category Comparison](plots/category_comparison.png)
+
+### Histogram Example (LVP10)
+![LVP10 Histogram](plots/batch_points/LVP10_EBE-f_152_histogram.png)
+
 ## Installation
 
 ### 1. Create Conda Environment

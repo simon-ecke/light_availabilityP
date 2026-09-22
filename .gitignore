@@ -14,8 +14,7 @@ temp/
 *.tif
 *.tif.aux.xml
 
-# Generated plots (keeping main reference plots)
-plots/batch_points/
+# Generated plots (keeping reference plots)
 plots/*.zip
 
 # Environment
