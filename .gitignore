@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Temporary and working directories
+temp/
+*.tif
+*.tif.aux.xml
+
+# Generated plots (keeping main reference plots)
+plots/batch_points/
+plots/*.zip
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloaded data files (keep source data only)
+*.meta4

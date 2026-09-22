@@ -1,0 +1,43 @@
+name: light_availabilityP
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Python
+  - python=3.10
+
+  # Core geospatial
+  - rasterio>=1.3.0
+  - geopandas>=0.12.0
+  - shapely>=2.0.0
+  - fiona>=1.9.0
+  - pyproj>=3.4.0
+
+  # Numerical computing
+  - numpy>=1.23.0
+  - pandas>=1.5.0
+
+  # Visualization
+  - matplotlib>=3.6.0
+
+  # HTTP requests and async downloads
+  - requests>=2.28.0
+  - aiohttp>=3.8.0
+  - aiofiles>=22.0.0
+  - tqdm>=4.60.0
+
+  # Jupyter
+  - jupyter>=1.0.0
+  - ipykernel>=6.0.0
+  - ipywidgets>=8.0.0
+  - notebook>=6.5.0
+
+  # Development tools
+  - pytest>=7.0.0
+  - pytest-cov>=4.0.0
+  - black>=22.0.0
+  - flake8>=5.0.0
+
+  # Optional but recommended
+  - gdal>=3.5.0
+  - folium>=0.14.0  # For interactive maps in notebooks
